@@ -1,8 +1,8 @@
 subnet_ids = [
-  "subnet-01e4ac0f077f049ec",
-  "subnet-04b9e3b15655ace18"
+  "subnet-09842f1e4a209613c",
+  "subnet-0f1d3fcabcda026b0"
 ]
 username = "testuser"
 password = "TestPass"
-vpc_id = "vpc-01d1bdceff5a5f364"
+vpc_id = "vpc-069c6514e14c276ef"
 name = "app"
